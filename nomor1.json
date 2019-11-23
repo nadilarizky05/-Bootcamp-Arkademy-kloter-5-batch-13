@@ -1,0 +1,20 @@
+{
+	"name" : "Nadila Rizky Amelia",
+	"age" : 18,
+	"address" : "Jl. Kapten Japa Gang II No. 2 Denpasar Timur",
+	"hobbies" : ["Coding", "Writing", "Badminton"],
+	"is_married" : false,
+	"list_school" : {
+		"Primary School" : "SDN 22 Dangin Puri",
+		"Junior Highschool" : "MTs. Miftahul 'Ulum",
+		"Senior Highschool" : "SMK Kesehatan Bali Dewata",
+	},
+	"skills" : [{
+		"name" : "UI/UX Design",
+		"yearsOfExperience" : 1
+	}, {
+		"name" : "Mobile Dev",
+		"yearsOfExperience" : 1
+	}],
+	"interest_in_coding" : true,
+}
